@@ -1,0 +1,81 @@
+
+
+h1 {
+	background-color: white;
+	padding: 10px;
+	border-style: solid;
+	border-color: yellow
+}
+
+body {
+	background-color: black;
+}
+
+img {
+	border-style: solid;
+	border-color: yellow;
+
+}
+
+.numberBox {
+	position:relative;
+	width: 200px;
+	height:80px;
+	background-color: white;
+	padding: 10px;
+	border-style: solid;
+	border-color: yellow;
+	top: -150px;
+
+}
+#winbox {
+	position:relative;
+	padding: 10px;
+	top:-105px;
+	height: 80px;
+	left:250px;
+	width:200px;
+	background-color: white;
+	border-style: solid;
+	border-color: yellow;
+	top: -256px;
+	
+}
+#happy {
+	width:200px;
+	position: relative;
+	top: -230px;
+}
+
+#screaming {
+	width: 200px;
+	position: relative;
+	left: 0px;
+	top: -230px;
+}
+
+#face {
+	width: 200px;
+	position: relative;
+	left: 0px;
+	top: -230px;
+}
+
+#woah {
+	width: 200px;
+	position: relative;
+	left: 0px;
+	top: -230px;
+}
+
+
+#totalscorebox {
+	position: relative;
+	padding: 10px;
+	background-color: white;
+	height:80px;
+	top:-200px;
+	border-style: solid;
+	border-color: yellow;
+}
+
